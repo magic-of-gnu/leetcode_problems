@@ -5,7 +5,7 @@
 
 My Solutions
 | id || Problem Name || `url` || Solve Date || Difficulty || Tag || Group A || Time Complx || Space Complx || Comment |
-| |---|-----|---------|---------|--------|-------|-------|------|----|----| |
+|---|-----|---------|---------|--------|-------|-------|------|----|----|
 | 1503 | Last Moment Before All Ants Fall Out of a Plank | https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/ | 15 June 2021 | Medium | Array | Group A | `O(nm)` | `O(1)` |
 | 289 | Game of Life | https://leetcode.com/problems/game-of-life/ | 15 June 2021 | Medium | Array | Group A | `O(nn)` | `O(1)` |
 | 347 | Top K Frequent Elemets | https://leetcode.com/problems/top-k-frequent-elements/ | 15 June 2021 | Medium | Hash Table | Group A | `O(n logk)` | `O(k)` |
