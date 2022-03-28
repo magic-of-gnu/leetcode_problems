@@ -183,8 +183,21 @@ My Solutions
 |76 |  Minimum Window Substring | https://leetcode.com/problems/minimum-window-substring/ | 19 December 2021 | Hard | Hash Table, String, Sliding Window | Group A | `O(N)` | `O(K)` | Nice problem :)|
 |871 | Minimum Number of Refueling Stops | https://leetcode.com/problems/minimum-number-of-refueling-stops/ | 19 December 2021 | Hard | Array, DP, Greedy, Heap | Group B |- | - | Hard problem :)|
 |1642 | Furthest Building You Can Reach | https://leetcode.com/problems/furthest-building-you-can-reach/ | 20 December | Medium | Array, Greedy, Heap | Group B | - | - | Very good problem :)|
-|366 | Find Leaves of Binary Tree | https://leetcode.com/problems/find-leaves-of-binary-tree/ | 20 December | Group A | `O(N)` | `O(N)` | Good Problem :)|
-|359 | Logger Rate Limiter | https://leetcode.com/problems/logger-rate-limiter | 20 December | Group A | `O(1)` | `O(M)` | Easy|
-|1610 | Maximum Number of Visible Points | https://leetcode.com/problems/maximum-number-of-visible-points/ | 22 December | Group A | `O(NlogN)` | `O(N)` | Good Problem :)|
-|239 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum/ | 31 Dec 2021 | Group B | `O(N)` | `O(K)` | Good Problem :) |
-|581 | Shortest Unsorted Continuous Subarray | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ | 08 January 2022 | Group B | `O(N)` | `O(N)` | Good Problem :) |
+|366 | Find Leaves of Binary Tree | https://leetcode.com/problems/find-leaves-of-binary-tree/ | 20 December | Medium | Group A | `O(N)` | `O(N)` | Good Problem :)|
+|359 | Logger Rate Limiter | https://leetcode.com/problems/logger-rate-limiter | 20 December | Easy | Group A | `O(1)` | `O(M)` | Easy |
+|1610 | Maximum Number of Visible Points | https://leetcode.com/problems/maximum-number-of-visible-points/ | 22 December | Hard | Group A | `O(NlogN)` | `O(N)` | Good Problem :)|
+|239 | Sliding Window Maximum | https://leetcode.com/problems/sliding-window-maximum/ | 31 Dec 2021 | Hard | Group B | `O(N)` | `O(K)` | Good Problem :) |
+|581 | Shortest Unsorted Continuous Subarray | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ | 08 January 2022 | Medium | Group B | `O(N)` | `O(N)` | Good Problem :) |
+|677 | Map Sum Pairs | https://leetcode.com/problems/map-sum-pairs/ | 11 January 2022 | Medium | Group A | insert: `O(K)`; sum: `O(K)` | `O(N)` | |
+|720 | Longest Word in Dictionary | https://leetcode.com/problems/longest-word-in-dictionary/ | 16 January 2022 | 720 | Group A | `O(K)` K - num chars | `O(K)` | Nice Problem :) |
+|1463 | Cherry Pickup II | https://leetcode.com/problems/cherry-pickup-ii/ | 16 January 2022 | Hard | Group B | `O(MN^2)` | `O(MN^2)` | Good Problem :) |
+|849|  Maximize Distance to Closest Person | https://leetcode.com/problems/maximize-distance-to-closest-person/ | 16 January 2022 | Medium | Group A | `O(N)` | `O(N)` | |
+|833 | Find And Replace in String | https://leetcode.com/problems/find-and-replace-in-string/ | 16 January 2022 | Medium | Group A | `O(K)` | `O(K)` | Strange Problem |
+|333 | Largest BST Subtree | https://leetcode.com/problems/largest-bst-subtree/ | 23 January 2022 | Medium | Group A | `O(N)` | `O(N)` | Good Problem :) |
+|93 |  Restore IP Addresses | https://leetcode.com/problems/restore-ip-addresses/ | 26 January 2022 | Medium | Group A | `O(3^4)` | `O(1)` | Easy problem :) |
+|45 | Jump Game II | https://leetcode.com/problems/jump-game-ii/ | 26 January 2022 | Medium | Group A | `O(N)` | `O(1)` | Good Problem :) |
+|1293 | Shortest Path in a Grid with Obstacles Elimination | https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/ | 26 January | Hard | Group A | `O(MNK)` | `O(MNK)` | Nice Problem Actually :) |
+|1730 | Shortest Path to Get Food | https://leetcode.com/problems/shortest-path-to-get-food/ | 26 January 2022 | Medium | Group A | `O(MN)` | `O(MN)` | |
+|1146 | Snapshot Array | https://leetcode.com/problems/snapshot-array/ | 27 January 2022 | Medium | Group B | `O(logN)` | `O(N)`| Good Problem on designing a memory |
+|746 | Min Cost Climbing Stairs | https://leetcode.com/problems/min-cost-climbing-stairs/ | 28 January 2022 | Easy | Group A | `O(N)` | `O(1)` | |
+|64 | Minimum Path Sum | https://leetcode.com/problems/minimum-path-sum/ | 28 January 2022 | Medium | Group A | `O(MN)` | `O(N)` | |
